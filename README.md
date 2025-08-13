@@ -43,12 +43,10 @@ cd gadgets-shop-admin
    npm run dev
    ```
 
-   Your app should now be running on [http://localhost:3000](http://localhost:3000).
+   
 
 ### Environment Variables
 
 Make sure to properly configure your environment variables by referring to the `.env.example` file. This file contains example values and instructions on what needs to be filled in.
 
-## Course Video
 
-Watch the full course on YouTube: [Fullstack Gadgets App: React Native Expo & NextJs Admin](https://youtu.be/26opRFPU0a8)

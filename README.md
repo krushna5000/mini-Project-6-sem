@@ -5,8 +5,8 @@ Welcome to the Fullstack Mobile and Web App Repo! In this project, you'll learn 
 This README will guide you through setting up the project, running the mobile and web applications, and exploring the course content.
 
 ## Connect with me  
-- **Portfolio:** [My Portfolio](https://your-portfolio-link.com)  
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/your-username/)  
+- **Portfolio:** [My Portfolio](https://krushna5000.github.io/Portfolio/)  
+- **LinkedIn:** [My LinkedIn Profile](www.linkedin.com/in/krushna5000)  
 
 
 ## Prerequisites

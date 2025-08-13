@@ -1,8 +1,13 @@
 # Fullstack Mobile and Web App with React Native, Supabase, and Next.js
 
-Welcome to the Fullstack Mobile and Web App Course! In this project, you'll learn how to build a mobile e-commerce app using React Native and Supabase, along with an admin panel built with Next.js.
+Welcome to the Fullstack Mobile and Web App Repo! In this project, you'll learn how to build a mobile e-commerce app using React Native and Supabase, along with an admin panel built with Next.js.
 
 This README will guide you through setting up the project, running the mobile and web applications, and exploring the course content.
+
+## Connect with me  
+- **Portfolio:** [My Portfolio](https://your-portfolio-link.com)  
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/your-username/)  
+
 
 ## Prerequisites
 

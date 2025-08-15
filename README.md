@@ -1,6 +1,6 @@
 # Fullstack Mobile and Web App with React Native, Supabase, and Next.js
 
-Welcome to the Fullstack Mobile and Web App Repo! In this project, you'll learn how to build a mobile e-commerce app using React Native and Supabase, along with an admin panel built with Next.js.
+Welcome to the Fullstack Mobile and Web App Repo! 
 
 This README will guide you through setting up the project, running the mobile and web applications, and exploring the course content.
 
@@ -34,21 +34,11 @@ cd gadgets-shop-admin
    npm install
    ```
 
-3. **Set Up Environment Variables:**
-
-   - Rename the `.env.example` file to `.env.local` and fill in the required environment variables.
-
-   ```bash
-   mv .env.example .env.local
-   ```
-
-4. **Run the Development Server:**
+3. **Run the Development Server:**
 
    ```bash
    npm run dev
    ```
-
-   
 
 ### Environment Variables
 
